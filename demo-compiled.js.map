@@ -1,0 +1,1 @@
+{"version":3,"sources":["demo.js"],"names":[],"mappings":"AAAA,MAAM,MAAK,QAAQ,KAAR,CAAX;AACA,IAAI,MAAJ,CAAW,6CAAX,EAAyD,YAAU;AAC/D,YAAQ,GAAR,CAAY,SAAZ;AACH,CAFD","file":"demo-compiled.js","sourcesContent":["const dns =require('dns');\r\ndns.lookup('http://172.16.9.10/FlightApi/FlightApi.aspx',function(){\r\n    console.log(arguments);\r\n})"]}
