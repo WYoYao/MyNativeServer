@@ -1,0 +1,1 @@
+{"version":3,"sources":["link.js"],"names":[],"mappings":";AACA,OAAQ,OAAR,GAAgB;AACZ,aAAQ;AADI,CAAhB","file":"link-compiled.js","sourcesContent":["\r\nmodule .exports={\r\n    address:'http://172.16.9.10/FlightApi/FlightApi.aspx',\r\n}"]}
